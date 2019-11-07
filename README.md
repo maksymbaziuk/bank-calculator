@@ -1,2 +1,0 @@
-# bank-calculator
-Bank calculator
